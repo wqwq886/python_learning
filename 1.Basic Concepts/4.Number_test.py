@@ -9,3 +9,7 @@ print(0.15*100)
 age=23
 message="Happy "+str(age)+"rd Birthday!"
 print(message)
+
+print(3/2)
+
+import this
