@@ -7,7 +7,7 @@ name_myfamily.sort(reverse=True)
 print(name_myfamily)
 
 # sorted(listname) 对列表暂时排序 函數操作
-# list.reverse 反向排列列表
+# list.reverse 反向排列列表(不是字母順序)
 # len.(list) 確定列表長度
 # list[-1] 為檢索列表最後一個元素
 
