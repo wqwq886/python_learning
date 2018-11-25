@@ -19,3 +19,8 @@ print(sum(sums))
 
 for value in range(3,31,3):
     print(value)
+
+lifang=[]
+for value in range(1,11)
+    lifang.append(value**3)
+print(lifang)
