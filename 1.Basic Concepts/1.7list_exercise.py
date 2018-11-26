@@ -18,6 +18,7 @@ my_destination.sort()
 print(my_destination)
 
 my_destination.sort()
+
 print(my_destination)
 
 finished_destination=my_destination.pop(2)
