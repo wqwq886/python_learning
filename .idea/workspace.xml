@@ -3,17 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="095ca7ff-7fbb-4907-b5fe-e37ef13342e2" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Concepts/1.Hello_world.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Concepts/1.1Hello_world.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Concepts/10.Cutlist_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Concepts/1.10Cutlist_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Concepts/11.Tuple_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Concepts/1.11Tuple_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Concepts/2.Simple Operations.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Concepts/1.2Simple Operations.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Concepts/3.String_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Concepts/1.3String_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Concepts/4.Number_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Concepts/1.4Number_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Concepts/5.List_change_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Concepts/1.5List_change_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Concepts/6.List_sort_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Concepts/1.6List_sort_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Concepts/7.list_exercise.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Concepts/1.7list_exercise.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Concepts/8.loop_for_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Concepts/1.8loop_for_test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Basic Concepts/9.range_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Basic Concepts/1.9range_test.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -25,49 +14,40 @@
     <session id="763196636">
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="21" />
+          <entry key="py" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="20" />
+          <entry key="Python" value="21" />
           <entry key="Scratch" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="2" />
-          <entry key="project.open.time.3" value="2" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.open.time.3" value="3" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="24" />
-          <entry key="py" value="222" />
+          <entry key="py" value="642" />
           <entry key="txt" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="26" />
-          <entry key="Python" value="222" />
+          <entry key="Python" value="642" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1.Basic Concepts/1.2Simple Operations.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="115">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.Basic Concepts/1.3String_test.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -89,7 +69,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.Basic Concepts/1.5List_change_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
+            <state relative-caret-position="897">
               <caret line="39" selection-start-line="39" selection-end-line="39" />
             </state>
           </provider>
@@ -125,7 +105,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.Basic Concepts/1.9range_test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="453">
+            <state relative-caret-position="598">
               <caret line="26" selection-start-line="26" selection-end-line="26" />
             </state>
           </provider>
@@ -140,11 +120,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1.Basic Concepts/1.11Tuple_test.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="230">
               <caret line="10" selection-start-line="10" selection-end-line="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2.Control Structures/2.1if_if_else_if_elif_else_text.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="499">
+              <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -180,6 +169,7 @@
         <option value="$PROJECT_DIR$/1.Basic Concepts/9.range_test.py" />
         <option value="$PROJECT_DIR$/1.Basic Concepts/10.Cutlist_test.py" />
         <option value="$PROJECT_DIR$/1.Basic Concepts/11.Tuple_test.py" />
+        <option value="$PROJECT_DIR$/2.Control Structures/2.1if_if_else_if_elif_else_text.py" />
       </list>
     </option>
   </component>
@@ -221,6 +211,11 @@
               <item name="python_learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
               <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
               <item name="1.Basic Concepts" type="9f88c78c:ScopeViewTreeModel$FileNode" />
+            </path>
+            <path>
+              <item name="python_learning" type="3d21c010:ScopeViewTreeModel$ProjectNode" />
+              <item name="" type="442cc68d:ScopeViewTreeModel$RootNode" />
+              <item name="2.Control Structures" type="9f88c78c:ScopeViewTreeModel$FileNode" />
             </path>
           </expand>
           <select />
@@ -266,7 +261,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.4.Number_test">
+  <component name="RunManager" selected="Python.2.1if_if_else_if_elif_else_text">
     <configuration name="10.Cutlist_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -288,6 +283,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="2.1if_if_else_if_elif_else_text" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_learning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.Control Structures" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Control Structures/2.1if_if_else_if_elif_else_text.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="4.Number_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_learning" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -301,27 +317,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="C:\Users\Gigabyte-WQ\PycharmProjects\python_learning\1.Basic Concepts\1.4Number_test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="8.loop_for_test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python_learning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.Basic Concepts" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Gigabyte-WQ\PycharmProjects\python_learning\1.Basic Concepts\1.8loop_for_test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,19 +368,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.8.loop_for_test" />
       <item itemvalue="Python.9.range_test" />
       <item itemvalue="Python.10.Cutlist_test" />
       <item itemvalue="Python.Tuple_test" />
       <item itemvalue="Python.4.Number_test" />
+      <item itemvalue="Python.2.1if_if_else_if_elif_else_text" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2.1if_if_else_if_elif_else_text" />
         <item itemvalue="Python.4.Number_test" />
         <item itemvalue="Python.Tuple_test" />
         <item itemvalue="Python.10.Cutlist_test" />
         <item itemvalue="Python.9.range_test" />
-        <item itemvalue="Python.8.loop_for_test" />
       </list>
     </recent_temporary>
   </component>
@@ -414,12 +409,12 @@
       <option name="project" value="LOCAL" />
       <updated>1543237921689</updated>
     </task>
-    <task id="LOCAL-00003" summary="增加注釋">
-      <created>1541328301882</created>
+    <task id="LOCAL-00003" summary="改名">
+      <created>1543240024493</created>
       <option name="number" value="00003" />
       <option name="presentableId" value="LOCAL-00003" />
       <option name="project" value="LOCAL" />
-      <updated>1541328301883</updated>
+      <updated>1543240024493</updated>
     </task>
     <task id="LOCAL-00004" summary="111">
       <created>1541330268555</created>
@@ -512,13 +507,14 @@
       <option name="project" value="LOCAL" />
       <updated>1542899765372</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.12961012" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.12961012" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32894737" />
@@ -527,7 +523,7 @@
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32899022" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.32899022" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3995657" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -559,7 +555,7 @@
     <entry file="file://$PROJECT_DIR$/1.Basic Concepts/1.2Simple Operations.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="115">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
         </state>
       </provider>
     </entry>
@@ -579,7 +575,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.Basic Concepts/1.5List_change_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
+        <state relative-caret-position="897">
           <caret line="39" selection-start-line="39" selection-end-line="39" />
         </state>
       </provider>
@@ -607,7 +603,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/1.Basic Concepts/1.9range_test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="453">
+        <state relative-caret-position="598">
           <caret line="26" selection-start-line="26" selection-end-line="26" />
         </state>
       </provider>
@@ -623,6 +619,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
           <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Control Structures/2.1if_if_else_if_elif_else_text.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="499">
+          <caret line="23" column="37" selection-start-line="23" selection-start-column="37" selection-end-line="23" selection-end-column="37" />
         </state>
       </provider>
     </entry>
